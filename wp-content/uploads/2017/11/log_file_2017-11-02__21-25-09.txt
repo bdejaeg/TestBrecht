@@ -1,0 +1,195 @@
+
+---Downloaded files---
+The import files for: Courtyard were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://ec2-18-196-1-117.eu-central-1.compute.amazonaws.com
+Data file = /var/www/html/wp-content/themes/courtyard-master/inc/demo-importer/demos/default/dummy-data/dummy-data.xml
+Widget file = /var/www/html/wp-content/themes/courtyard-master/inc/demo-importer/demos/default/dummy-data/dummy-widgets.wie
+Customizer file = /var/www/html/wp-content/themes/courtyard-master/inc/demo-importer/demos/default/dummy-data/dummy-customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Albums
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Albums
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+PT: Recent Posts - Popular Posts - Imported
+PT: Social Icons - Follow Us - Imported
+Meta - No Title - Widget already exists
+
+Front Page - Home : 
+
+PT: Hero Image Slider - No Title - Imported
+PT: Rooms - Rooms &amp; Rates - Imported
+PT: Services - Our Services - Imported
+PT: Packages - Holiday Packages - Imported
+PT: About - No Title - Imported
+PT: Testimonials - Happy Clients! - Imported
+PT: Logo - Affiliate Patners - Imported
+PT: Video - Watch Awesome Video - Imported
+PT: Recent Posts - Recent Posts - Imported
+
+Footer 1 : 
+
+Text - Hotel Courtyard - Imported
+PT: Social Icons - No Title - Imported
+
+Footer 2 : 
+
+Custom Menu - Quick Links - Imported
+
+Footer 3 : 
+
+Custom Menu - Explore - Imported
+
+Footer 4 : 
+
+Meta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

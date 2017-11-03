@@ -1,0 +1,60 @@
+
+---Downloaded files---
+The import files for: Courtyard were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://ec2-18-196-1-117.eu-central-1.compute.amazonaws.com
+Data file = /var/www/html/wp-content/themes/courtyard-master/inc/demo-importer/demos/default/dummy-data/dummy-data.xml
+Widget file = /var/www/html/wp-content/themes/courtyard-master/inc/demo-importer/demos/default/dummy-data/dummy-widgets.wie
+Customizer file = /var/www/html/wp-content/themes/courtyard-master/inc/demo-importer/demos/default/dummy-data/dummy-customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+PT: Recent Posts - Popular Posts - Widget already exists
+PT: Social Icons - Follow Us - Widget already exists
+Meta - No Title - Widget already exists
+
+Front Page - Home : 
+
+PT: Hero Image Slider - No Title - Widget already exists
+PT: Rooms - Rooms &amp; Rates - Widget already exists
+PT: Services - Our Services - Widget already exists
+PT: Packages - Holiday Packages - Widget already exists
+PT: About - No Title - Widget already exists
+PT: Testimonials - Happy Clients! - Widget already exists
+PT: Logo - Affiliate Patners - Widget already exists
+PT: Video - Watch Awesome Video - Widget already exists
+PT: Recent Posts - Recent Posts - Widget already exists
+
+Footer 1 : 
+
+Text - Hotel Courtyard - Widget already exists
+PT: Social Icons - No Title - Widget already exists
+
+Footer 2 : 
+
+Custom Menu - Quick Links - Widget already exists
+
+Footer 3 : 
+
+Custom Menu - Explore - Widget already exists
+
+Footer 4 : 
+
+Meta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
